@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center; height: 400px; width: 100%">
 <iframe src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pks7q4l2bmc5geb00wjrp0vs8&cover_image=true&theme=default" style="border: none; height: 100%; width: 100%"></iframe>
-</div>
 
 <hr>
 
