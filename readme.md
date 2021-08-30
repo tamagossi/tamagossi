@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
+<div style="display: flex; justify-content: center; height: 400px; width: 100%">
+<iframe src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pks7q4l2bmc5geb00wjrp0vs8&cover_image=true&theme=default" style="border: none; height: 100%; width: 100%"></iframe>
+</div>
 
 <hr>
 
@@ -92,6 +92,7 @@
 
 ## What You Can Find In My Github:
 
+
 ### Learning Purposes Project:
 
 #### Book Summary
@@ -127,3 +128,10 @@
 [![Raka Pratama's github stats](https://github-readme-stats.vercel.app/api?username=tamagossi&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamagossi&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+
+<hr />
+
+
+
+
+
