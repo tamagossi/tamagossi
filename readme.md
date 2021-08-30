@@ -47,12 +47,6 @@
    <br />
 </p> 
 
-
-😄 &nbsp;&nbsp;I am open to:
-* Javascript/Dart related technologies collaboration project
-* Freelancing 😄 😄
-
-
 <p align="center">
     <a href="https://www.linkedin.com/in/prauliyatama/" target="blank" style="margin-right: 10px">
         <img 
@@ -97,7 +91,7 @@
 
 #### Book Summary
 
-* 📖 &nbsp; **Pramgatic Programmer** by Davin Hunt & Andre Thomas 🌟 🌟 🌟 🌟 🌟 
+* 📖 &nbsp; **Pramgatic Programmer** by David Hunt & Andre Thomas 🌟 🌟 🌟 🌟 🌟 
 * 📖 &nbsp; **Clean Code** by Robert C. Martin 🌟 🌟 🌟 🌟 🌟 
 
 #### Learning Purposes Apps:
