@@ -47,8 +47,10 @@
    <br />
 </p> 
 
+<br />
+<h4 align="center">Contact Me:</h4>
 <p align="center">
-    <a href="https://www.linkedin.com/in/prauliyatama/" target="blank" style="margin-right: 10px">
+    <a href="https://www.linkedin.com/in/prauliyatama/" target="blank">
         <img 
             align="center" 
             alt="prauliyatama" 
@@ -57,7 +59,8 @@
             width="35" 
         />
     </a>
-    <a href="mailto: mgf.prauliyatama@gmail.com" style="margin-right: 10px">
+    &nbsp;
+    <a href="mailto: mgf.prauliyatama@gmail.com">
         <img 
             align="center" 
             src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" 
@@ -65,7 +68,8 @@
             width="40" 
         />
     </a>
-    <a href="https://twitter.com/tamago_ssi" style="margin-right: 10px">
+     &nbsp;
+    <a href="https://twitter.com/tamago_ssi">
         <img 
             align="center" 
             src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png" 
@@ -73,6 +77,7 @@
             width="40" 
         />
     </a>
+    &nbsp;
     <a href="https://www.instagram.com/tamago.ssi/">
         <img 
             align="center" 
