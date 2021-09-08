@@ -95,14 +95,14 @@
 
 #### Book Summary
 
-* 📖 &nbsp; **Pramgatic Programmer** by David Hunt & Andre Thomas 🌟 🌟 🌟 🌟 🌟 
-* 📖 &nbsp; [***Clean Code***](https://github.com/tamagossi/clean-code-summary) by Robert C. Martin 🌟 🌟 🌟 🌟 🌟 
+* 📖 &nbsp; **Pramgatic Programmer** by David Hunt & Andre Thomas 
+* 📖 &nbsp; [***Clean Code***](https://github.com/tamagossi/clean-code-summary) by Robert C. Martin 
 
 #### Learning Purposes Apps:
 
-* 📱 &nbsp; **[Flutter]** [***Tokalog***](https://github.com/tamagossi/tokalog) - a very simple e-commerce to learn *Flutter navigations, store, and http request* 🌟 🌟 🌟
-* 📱 &nbsp; **[React]** [***Hacker News Clone***](https://github.com/tamagossi/hackernews-clone) - Hackernews clone 🌟 
-* 📱 &nbsp; **[C]** [***Pendopo Agung Polban***](https://github.com/tamagossi/C-opengl-pendopo-agung-polban) - Pendopo Agung Polban 3D Animation 🌟 🌟 🌟 
+* 📱 &nbsp; **[Flutter]** [***Tokalog***](https://github.com/tamagossi/tokalog) - a very simple e-commerce to learn *Flutter navigations, store, and http request* 
+* 📱 &nbsp; **[React]** [***Hacker News Clone***](https://github.com/tamagossi/hackernews-clone) - Hackernews clone
+* 📱 &nbsp; **[C]** [***Pendopo Agung Polban***](https://github.com/tamagossi/C-opengl-pendopo-agung-polban) - Pendopo Agung Polban 3D Animation 
 
     <br />
 
