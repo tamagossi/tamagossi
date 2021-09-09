@@ -1,4 +1,4 @@
-<span style="display: flex; width: 100%; justify-content: center">![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=pks7q4l2bmc5geb00wjrp0vs8&cover_image=true&theme=default)![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=pks7q4l2bmc5geb00wjrp0vs8&cover_image=true&theme=default)![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=pks7q4l2bmc5geb00wjrp0vs8&cover_image=true&theme=default)</span>
+<span style="display: flex; width: 100%; justify-content: center">![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=pks7q4l2bmc5geb00wjrp0vs8&cover_image=true&theme=default)![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=pks7q4l2bmc5geb00wjrp0vs8&cover_image=true&theme=default)</span>
 
 <hr>
 
