@@ -1,4 +1,6 @@
-<span style="display: flex; width: 100%; justify-content: center">![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=pks7q4l2bmc5geb00wjrp0vs8&cover_image=true&theme=default)![https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.vercel.app/api/view.svg?uid=pks7q4l2bmc5geb00wjrp0vs8&cover_image=true&theme=default)</span>
+<p align="center">
+   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=pks7q4l2bmc5geb00wjrp0vs8&cover_image=true&theme=default" />&nbsp;&nbsp;
+</p> 
 
 <hr>
 
@@ -121,7 +123,6 @@
 *Coming Really Soon..*
 
 <hr>
-
 
 [![Raka Pratama's github stats](https://github-readme-stats.vercel.app/api?username=tamagossi&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamagossi&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
