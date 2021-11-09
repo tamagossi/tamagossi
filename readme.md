@@ -18,7 +18,7 @@
         <a href="https://www.linkedin.com/company/sampinganid/mycompany/">
             Sampingan
         </a>.
-    I am frequently focus on <em>Front-End</em> technologies such as <b>React</b> and <b>Flutter</b>
+    I am frequently focus on <em>Front-End</em> technologies such as <b>React</b> and <b>React Native</b>, besides I am also frequently learning on working with <b>Golang</b>
 <p>
 
 <h2 align="center">Tools & Technologies</h2>
