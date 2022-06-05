@@ -5,7 +5,7 @@
 <hr>
 
 <h1 align="center">
-    Greetings <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
+    Greetings <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, 
     I'm Raka Pratama
 </h1>
 
