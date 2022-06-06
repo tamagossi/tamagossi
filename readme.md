@@ -106,13 +106,6 @@
 * 🖥 &nbsp; **[React]** [***Hacker News Clone***](https://github.com/tamagossi/hackernews-clone) - Hackernews clone
 * 🖥 &nbsp; **[C]** [***Pendopo Agung Polban***](https://github.com/tamagossi/C-opengl-pendopo-agung-polban) - Pendopo Agung Polban 3D Animation 
 
-    <br />
-
-    ⛔⛔⛔ **Not Maintained Project**⛔⛔⛔
-    * 🖥 &nbsp; **[React]** [***Crownmerce***](https://github.com/tamagossi/hackernews-clone) - a very simple e-commerce to learn *React common technology and common packages* 
-    * 🖥 &nbsp; **[React]** [***Crownmerce with GraphQL***](https://github.com/tamagossi/crownmerce-using-graphql)
-    * 🖥 &nbsp; **[React]** [***Crownmerce using Context***](https://github.com/tamagossi/crownmerce-using-context)
-
 
 <br />
 ### Open-Source Project:
