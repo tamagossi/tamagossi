@@ -111,10 +111,6 @@
 ### Open-Source Project:
 *Coming Really Soon..*
 
-<br />
-### Open-Source Project:
-*Coming Really Soon..*
-
 <hr>
 
 [![Raka Pratama's github stats](https://github-readme-stats.vercel.app/api?username=tamagossi&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
