@@ -14,7 +14,7 @@
 </h3>
 
 <p align="center">
-    HI, I am Raka Pratama, usually called Tama. 23-years-old software engineer currently working at 
+    HI, I am Raka Pratama, usually called Tama. 25-years-old software engineer currently working at 
         <a href="https://www.linkedin.com/company/sampinganid/mycompany/">
             Sampingan
         </a>.
