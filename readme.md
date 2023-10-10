@@ -50,7 +50,7 @@
 <br />
 <h4 align="center">Contact Me:</h4>
 <p align="center">
-    <a href="https://www.linkedin.com/in/prauliyatama/" target="blank">
+    <a href="https://www.linkedin.com/in/tamagossi/" target="blank">
         <img 
             align="center" 
             alt="prauliyatama" 
